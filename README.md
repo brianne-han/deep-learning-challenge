@@ -10,7 +10,7 @@ This analysis aims to construct a binary classifier employing machine learning a
 ## Results
 
 ### Data Preprocessing
-* The target variable for this model is the IS_SUCCESSFUL column of the dataset, which indicates if the money was used effectively.
+* The target variable for this model is the <mark>IS_SUCCESSFUL<mark> column of the dataset, which indicates if the money was used effectively.
 * Feature variables:
   * APPLICATION_TYPE — Alphabet Soup application type
   * AFFILIATION — Affiliated sector of industry
