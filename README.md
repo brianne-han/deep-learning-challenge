@@ -26,17 +26,17 @@ This analysis aims to construct a binary classifier employing machine learning a
 
 ### Compiling, Training, and Evaluating the Model
 * Model 1
-  * In my first model, I opted for 80 neurons in the first hidden layer and 30 neurons in the second hidden layer and employing the ReLU activation function for both hidden layers, the   objective was to devise a model with ample complexity to grasp and comprehend significant patterns within the dataset. The selection of ReLU activation facilitates the introduction     of non-linearity, enabling the model to discern intricate relationships between the input features and the target variable.
+  * In my first model (Starter_Code.ipynb), I opted for 80 neurons in the first hidden layer and 30 neurons in the second hidden layer and employed the ReLU activation function for both hidden layers, the   objective was to devise a model with ample complexity to grasp and comprehend significant patterns within the dataset. The selection of ReLU activation facilitates the introduction     of non-linearity, enabling the model to discern intricate relationships between the input features and the target variable.
 
 
-  <img width="748" alt="Screenshot 2024-03-06 at 12 52 10 PM" src="https://github.com/brianne-han/deep-learning-challenge/assets/142977736/9ee59c1d-4748-468e-b270-82a0bb278296">
+ <img width="748" alt="Screenshot 2024-03-06 at 12 52 10 PM" src="https://github.com/brianne-han/deep-learning-challenge/assets/142977736/9ee59c1d-4748-468e-b270-82a0bb278296">
 
  
   
   * I only achieved 72.6% accuracy, which is not the target model performance of 75%.
 
  
-  <img width="504" alt="Screenshot 2024-03-06 at 12 54 31 PM" src="https://github.com/brianne-han/deep-learning-challenge/assets/142977736/c9b51534-931d-4f64-bbe5-6e2f73d3c159">
+ <img width="504" alt="Screenshot 2024-03-06 at 12 54 31 PM" src="https://github.com/brianne-han/deep-learning-challenge/assets/142977736/c9b51534-931d-4f64-bbe5-6e2f73d3c159">
 
 
 
