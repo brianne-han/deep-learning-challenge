@@ -25,7 +25,8 @@ This analysis aims to construct a binary classifier employing machine learning a
 
 
 ### Compiling, Training, and Evaluating the Model
-
+* Model 1
+  * In my first model, I opted for 80 neurons in the first hidden layer and 30 neurons in the second hidden layer and employing the ReLU activation function for both hidden layers, the   objective was to devise a model with ample complexity to grasp and comprehend significant patterns within the dataset. The selection of ReLU activation facilitates the introduction     of non-linearity, enabling the model to discern intricate relationships between the input features and the target variable.
 -----
 
 ## Summary
