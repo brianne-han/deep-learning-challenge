@@ -30,9 +30,22 @@ This analysis aims to construct a binary classifier employing machine learning a
 
 <img width="748" alt="Screenshot 2024-03-06 at 12 52 10 PM" src="https://github.com/brianne-han/deep-learning-challenge/assets/142977736/9ee59c1d-4748-468e-b270-82a0bb278296">
 
+ 
+  
   * I only achieved 72.6% accuracy, which is not the target model performance of 75%.
     
 <img width="504" alt="Screenshot 2024-03-06 at 12 54 31 PM" src="https://github.com/brianne-han/deep-learning-challenge/assets/142977736/c9b51534-931d-4f64-bbe5-6e2f73d3c159">
+
+
+* To increase model performance in AlphabetSoupCharity_Optimization.ipynb, I added the NAME column back into the dataset and created bins for values. I also changed the amount of neurons in each layer, as well as changing the number of epochs in the training regimen.
+
+<img width="721" alt="Screenshot 2024-03-06 at 1 48 08 PM" src="https://github.com/brianne-han/deep-learning-challenge/assets/142977736/f77e87fd-de9f-484b-befc-5485e4c05f5d">
+
+
+* With this new model, I was able to achieve a 79.1% accuracy score, which surpasses the target model performance score of 75%.
+
+  
+  <img width="501" alt="Screenshot 2024-03-06 at 1 49 21 PM" src="https://github.com/brianne-han/deep-learning-challenge/assets/142977736/b2f0d4e6-f086-468a-a73d-b43eb054324d">
 
     
 -----
